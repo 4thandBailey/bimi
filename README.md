@@ -52,6 +52,6 @@ Validate the BIMI setup at:
 
 ## About 4th and Bailey
 
-**4th and Bailey** is an Information Technology Consulting firm.
+**4th and Bailey** is an Information Technology Consulting firm located in Houston, TX serving organizations nationwide.
 
 🌐 [4thandbailey.com](https://4thandbailey.com) · 🐙 [github.com/4thandbailey](https://github.com/4thandbailey)
